@@ -1,0 +1,42 @@
+body {
+  background: -webkit-gradient(linear, left top, left bottom, from(#000000), to(#848484)) fixed;
+  font-family: 'Roboto', sans-serif;
+  color: white;
+}
+
+.container {
+  border: 2px solid lightgrey;
+  background-color: white;
+  border-radius: 10px;
+  padding: 11px;
+  color: black;
+  width: 400px;
+}
+
+.button {
+  border: 2px solid lightgrey;
+  background-color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 10px;
+  color: black;
+  width: 100px;
+}
+form {
+  float; left;
+}
+
+.SiteNavButtons {
+  border: 2px solid lightgrey;
+  background-color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 10px;
+  color: gray;
+  width: 54px;
+}
+
+.center { 
+  text-align-last: center; 
+  border: 2px solid black; 
+} 
